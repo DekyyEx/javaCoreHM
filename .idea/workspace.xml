@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bc56a2-28d6-4234-a75e-8373ff0006a9" name="Changes" comment="Hm2" />
+    <list default="true" id="b5bc56a2-28d6-4234-a75e-8373ff0006a9" name="Changes" comment="Hm2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/congratulateEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm3/getHolidayForDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCoreDataAndFunctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreDataAndFunctions.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -17,15 +32,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DekyyEx/javaCoreGB.git",
-    "accountId": "481547d0-12a3-4c4c-88bb-c95e87c55a98"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DekyyEx&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DekyyEx/javaCoreHM.git&quot;,
+    &quot;accountId&quot;: &quot;481547d0-12a3-4c4c-88bb-c95e87c55a98&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2fJyUa02OuBRCLCGMuq8Qrh3dgD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +59,12 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -66,7 +92,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713533498808</updated>
-      <workItem from="1713533500107" duration="333000" />
+      <workItem from="1713533500107" duration="486000" />
+      <workItem from="1713534005091" duration="3000" />
+      <workItem from="1713534018423" duration="29000" />
+      <workItem from="1713534057528" duration="607000" />
+      <workItem from="1713537230902" duration="66000" />
+      <workItem from="1714138541668" duration="4491000" />
     </task>
     <task id="LOCAL-00001" summary="Hm2">
       <option name="closed" value="true" />
@@ -76,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713533821122</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hm2">
+      <option name="closed" value="true" />
+      <created>1713533935188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713533935188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +125,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Hm2" />
     <option name="LAST_COMMIT_MESSAGE" value="Hm2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hm3/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
